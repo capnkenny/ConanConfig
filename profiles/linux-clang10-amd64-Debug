@@ -10,5 +10,5 @@ build_type=Debug
 [options]
 [build_requires]
 [env]
-CC=clang
-CXX=clang++
+CC=clang-10
+CXX=clang++-10
